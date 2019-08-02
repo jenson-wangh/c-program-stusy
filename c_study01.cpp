@@ -237,3 +237,19 @@
 //       }
 //   return 0;
 //}
+//#include<stdio.h>
+////  最大公因数
+//int main(int argc,char* argv[]){
+//    int a=0,b=0,t=0,aa=0,bb=0;
+//    printf("please input a,b:\n");
+//    scanf("%d %d",&a,&b);
+//    aa=a,bb=b;
+//    while(b!=0){
+//        t=a%b;
+//        printf("a=%d,b=%d,t=%d\n",a,b,t);
+//        a=b;
+//        b=t;
+//    }
+//    printf("%d %d zuida gongyueshu wei: %d",aa,bb,a);
+//    return 0;
+//}
